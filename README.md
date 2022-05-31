@@ -5,6 +5,10 @@
 * HTML and CSS (SCSS)
 * Git
 * FIgma
+##### Beginner:
+* C#
+* Python with Django
+* C++
 For writing code I use VS Code and Webstorm
 ##### Current roadmap 🎓
 ~~HTML, SCSS, JavaScript~~ --> TypeScript, React --> Node.js, databases
